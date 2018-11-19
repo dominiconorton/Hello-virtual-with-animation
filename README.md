@@ -1,4 +1,4 @@
-# A-Frame Hellow Virtual World with animation
+# A-Frame Hello Virtual World with animation
 
 By Dominic Norton
 
